@@ -10,6 +10,10 @@
 <br>
 
  *<a href="https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358">Projeto do FIGMA usado de base</a>*
+  
+ <br>
+ 
+ >### :pencil2:Instrutor dos cursos: Pedro Marins
 
 ## Tecnologias usadas
 
