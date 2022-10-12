@@ -13,7 +13,7 @@
   
 <br>
  
- >### :pencil2:Instrutor dos cursos: Matheus Alberto
+ >### :pencil2:Instrutor do cursos: Matheus Alberto
 
 ## Tecnologias usadas
 
