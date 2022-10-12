@@ -9,7 +9,7 @@
 
 <br>
 
- *<a href="https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358">Projeto do FIGMA usado como base</a>*
+ *<a href="https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358">Projeto do FIGMA usado de base</a>*
 
 ## Tecnologias usadas
 
