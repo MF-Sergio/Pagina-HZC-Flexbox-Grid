@@ -126,7 +126,7 @@ entre outros...
 
 ## Deploy das páginas :dash:
 
-> https://lnkd.in/dBTCUDna
+> https://lnkd.in/dg95qKXt
   
 <br>
 
