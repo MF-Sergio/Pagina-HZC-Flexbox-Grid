@@ -1,4 +1,4 @@
-<h1>Atividade Alura HTML5 CSS3</h1>
+<h1>Atividade Alura Flexbox Grid</h1>
 
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=VSCode&message=1.72.0&color=blue&style=for-the-badge"/>
