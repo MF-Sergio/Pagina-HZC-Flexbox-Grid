@@ -15,8 +15,6 @@
 
 :small_blue_diamond: [Aprendizados](#aprendizados)
 
-:small_blue_diamond: [Deploy das Páginas](#deploy-das-páginas-dash)
-
 :small_blue_diamond: [Créditos](#linguagens-utilizadas-books)
 
 <br>
@@ -122,12 +120,6 @@ entre outros...
   - Grid areas vem com o propósito de facilitar a manutenção de código e a visibilidade dos elementos dentro do grid container.
 </details>
 
-<br>
-
-## Deploy das páginas :dash:
-
-> https://lnkd.in/dg95qKXt
-  
 <br>
 
 ## Linguagens utilizadas :books:
