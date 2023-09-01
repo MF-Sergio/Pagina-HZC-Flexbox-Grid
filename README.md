@@ -15,6 +15,8 @@
 
 :small_blue_diamond: [Aprendizados](#aprendizados)
 
+:small_blue_diamond: [Deploy da Página](#deploy-da-página-dash)
+
 :small_blue_diamond: [Créditos](#linguagens-utilizadas-books)
 
 <br>
@@ -119,6 +121,12 @@ entre outros...
 - As vantagens e utilização de grid areas;
   - Grid areas vem com o propósito de facilitar a manutenção de código e a visibilidade dos elementos dentro do grid container.
 </details>
+
+<br>
+
+## Deploy da página :dash:
+
+> https://pagina-hzc-flexbox-grid.vercel.app
 
 <br>
 
